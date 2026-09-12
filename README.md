@@ -13,3 +13,4 @@ noise suppression, spatial audio / HRTF) · NLP & computer vision · educator (1
 - LinkedIn: https://www.linkedin.com/in/wen-wei-kang-533119131/
 - Medium: https://medium.com/@run963741
 - Live demo — Bandwidth Extension results: https://r7788380.github.io/bwe-stream-sdk-results/
+- Live demo — Speech denoiser results: https://r7788380.github.io/speech-denoiser-sdk-results/
