@@ -9,6 +9,9 @@
 <meta property="og:title" content="康文瑋 Wen-Wei Kang — Resume">
 <meta property="og:description" content="Senior AI Engineer · real-time on-device audio ML · educator">
 <meta property="og:image" content="https://r7788380.github.io/preview.png">
+<link rel="canonical" href="https://r7788380.github.io/">
+<link rel="alternate" hreflang="en" href="https://r7788380.github.io/">
+<link rel="alternate" hreflang="zh-Hant" href="https://r7788380.github.io/zh.html">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;600;700&amp;family=Noto+Sans+TC:wght@400;500;700&amp;display=swap" rel="stylesheet">
 <style>
@@ -16,10 +19,16 @@ body{margin:0;font-family:'Noto Sans TC',sans-serif;color:#1c2126;}
 a{color:#9db8d9;text-decoration:none;}
 a:hover{color:#c4d6ee;text-decoration:underline;}
 doc-page:not(:defined){visibility:hidden}
+.lang{position:fixed;top:12px;right:14px;z-index:10;display:flex;gap:10px;align-items:center;padding:7px 12px;font-size:13px;line-height:1;background:rgba(255,255,255,.92);border:1px solid #d5dae0;border-radius:999px;box-shadow:0 1px 3px rgba(0,0,0,.08);}
+.lang a{color:#1f3a5f;}
+.lang a[aria-current]{font-weight:700;}
+.lang span{color:#b5bcc4;}
+@media print{.lang{display:none !important;}}
 </style>
 <script src="./doc-page.js"></script>
 </head>
 <body>
+<nav class="lang" aria-label="Language / 語言"><a href="./" hreflang="en" lang="en" aria-current="page">English</a><span aria-hidden="true">|</span><a href="./zh.html" hreflang="zh-Hant" lang="zh-Hant">中文</a></nav>
 <doc-page size="a4" lang="zh-Hant">
   <section class="page" id="p1" style="display:grid;grid-template-columns:240px 1fr;">
     <aside style="background:#1f3a5f;color:#e8eef0;padding:36px 26px;display:flex;flex-direction:column;gap:24px;">
