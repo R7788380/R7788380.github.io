@@ -14,6 +14,6 @@ noise suppression, spatial audio / HRTF) · NLP & computer vision · educator (1
 - GitHub: https://github.com/R7788380
 - LinkedIn: https://www.linkedin.com/in/wen-wei-kang-533119131/
 - Medium: https://medium.com/@run963741
-- Live demo — Bandwidth Extension results: https://r7788380.github.io/bwe-stream-sdk-results/ · [中文版](https://r7788380.github.io/bwe-stream-sdk-results/index-zh.html)
-- Live demo — Speech denoiser results: https://r7788380.github.io/speech-denoiser-sdk-results/ · [中文版](https://r7788380.github.io/speech-denoiser-sdk-results/index-zh.html)
-- Live demo — Stem Separation results: https://r7788380.github.io/music-separation-sdk-results/ · [中文版](https://r7788380.github.io/music-separation-sdk-results/index-zh.html)
+- Live demo — Bandwidth Extension results: [English version](https://r7788380.github.io/bwe-stream-sdk-results/) · [中文版](https://r7788380.github.io/bwe-stream-sdk-results/index-zh.html)
+- Live demo — Speech denoiser results: [English version](https://r7788380.github.io/speech-denoiser-sdk-results/) · [中文版](https://r7788380.github.io/speech-denoiser-sdk-results/index-zh.html)
+- Live demo — Stem Separation results: [English version](https://r7788380.github.io/music-separation-sdk-results/) · [中文版](https://r7788380.github.io/music-separation-sdk-results/index-zh.html)
